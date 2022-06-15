@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T12:34:14.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="MfuVEQ-j7ouy-6ioPYf8" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-15T14:18:57.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="arXQHxKcyg-2xzHrqVAB" version="20.0.1" type="github">
   <diagram id="zgGv5PZFVaNnFa4y21QS" name="Page-1">
-    <mxGraphModel dx="2004" dy="2394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="918" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,10 +108,10 @@
         <mxCell id="-HQTTB2b0EMmUqcYQJpE-34" value="Corporate Trainings" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="861" y="360" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-HQTTB2b0EMmUqcYQJpE-35" value="Zen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="874" y="47" width="40" height="20" as="geometry" />
+        <mxCell id="-HQTTB2b0EMmUqcYQJpE-35" value="Master" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="873" y="47" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-HQTTB2b0EMmUqcYQJpE-36" value="Master" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="-HQTTB2b0EMmUqcYQJpE-36" value="Expert" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="890" y="90" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-HQTTB2b0EMmUqcYQJpE-37" value="New" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -218,6 +218,30 @@
         </mxCell>
         <mxCell id="-HQTTB2b0EMmUqcYQJpE-67" value="High&amp;nbsp;&lt;br&gt;&lt;br&gt;average&lt;br&gt;&lt;br&gt;Low" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1451" y="438.5" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-HQTTB2b0EMmUqcYQJpE-68" value="(40 Hours)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="971" y="283" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-HQTTB2b0EMmUqcYQJpE-69" value="(200 Hours)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="975" y="232" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-HQTTB2b0EMmUqcYQJpE-70" value="(600 Hours)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="946" y="183" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-HQTTB2b0EMmUqcYQJpE-71" value="(800 Hours)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="936" y="139" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-HQTTB2b0EMmUqcYQJpE-72" value="(1000 Hours)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="925" y="90" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-HQTTB2b0EMmUqcYQJpE-73" value="(1500 Hours)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="906" y="47" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-HQTTB2b0EMmUqcYQJpE-74" value="Zen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="866" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-HQTTB2b0EMmUqcYQJpE-75" value="(2000 Hours)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="894" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
