@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T04:14:54.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="1UkrUm1nPsFuXBK9E-Tv" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-18T05:08:31.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="QhOHO_tUSoVnksxR4qHW" version="20.0.1" type="github">
   <diagram id="usRcXGMb7Uk2bxykY_oP" name="Page-1">
-    <mxGraphModel dx="2755" dy="1685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="F_dYNPBiSin5pHoSr7GU-53" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry width="1370" height="1310" as="geometry" />
+        <mxCell id="F_dYNPBiSin5pHoSr7GU-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="30" width="1370" height="1360" as="geometry" />
         </mxCell>
         <mxCell id="F_dYNPBiSin5pHoSr7GU-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F_dYNPBiSin5pHoSr7GU-1" target="F_dYNPBiSin5pHoSr7GU-3">
           <mxGeometry relative="1" as="geometry" />
@@ -31,17 +31,16 @@
         <mxCell id="F_dYNPBiSin5pHoSr7GU-5" value="Show &#39;&lt;b&gt;Home Page&lt;/b&gt;&#39;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F_dYNPBiSin5pHoSr7GU-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F_dYNPBiSin5pHoSr7GU-7" target="F_dYNPBiSin5pHoSr7GU-9">
+        <mxCell id="F_dYNPBiSin5pHoSr7GU-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F_dYNPBiSin5pHoSr7GU-7" target="F_dYNPBiSin5pHoSr7GU-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F_dYNPBiSin5pHoSr7GU-7" value="Search ?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="390" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F_dYNPBiSin5pHoSr7GU-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F_dYNPBiSin5pHoSr7GU-9" target="F_dYNPBiSin5pHoSr7GU-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="F_dYNPBiSin5pHoSr7GU-9" value="Filter/sort" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="F_dYNPBiSin5pHoSr7GU-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="F_dYNPBiSin5pHoSr7GU-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="460" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="F_dYNPBiSin5pHoSr7GU-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F_dYNPBiSin5pHoSr7GU-11" target="F_dYNPBiSin5pHoSr7GU-42">
           <mxGeometry relative="1" as="geometry" />
@@ -49,14 +48,8 @@
         <mxCell id="F_dYNPBiSin5pHoSr7GU-11" value="See in detail the property using &#39;&lt;b&gt;Show Property&lt;/b&gt;&#39; Page" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F_dYNPBiSin5pHoSr7GU-13" value="This is part of View search Result Page" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.08;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="640" y="330" width="120" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="F_dYNPBiSin5pHoSr7GU-14" value="This is part of Home page a.k.a &#39;&lt;b&gt;Home Page&lt;/b&gt;&#39; Page" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.08;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="330" width="120" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="F_dYNPBiSin5pHoSr7GU-16" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="493" y="433" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="F_dYNPBiSin5pHoSr7GU-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F_dYNPBiSin5pHoSr7GU-17">
           <mxGeometry relative="1" as="geometry">
@@ -142,7 +135,7 @@
         <mxCell id="F_dYNPBiSin5pHoSr7GU-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F_dYNPBiSin5pHoSr7GU-47" target="F_dYNPBiSin5pHoSr7GU-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F_dYNPBiSin5pHoSr7GU-47" value="Shortlist Property/Call Owner" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="F_dYNPBiSin5pHoSr7GU-47" value="Shortlist Property/Call Owner/View Owner Profile" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F_dYNPBiSin5pHoSr7GU-49" value="Add to &#39;&lt;b&gt;Shortlisted Property&lt;/b&gt;&#39; page" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -150,6 +143,24 @@
         </mxCell>
         <mxCell id="F_dYNPBiSin5pHoSr7GU-52" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="550" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="F_dYNPBiSin5pHoSr7GU-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F_dYNPBiSin5pHoSr7GU-55" target="F_dYNPBiSin5pHoSr7GU-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F_dYNPBiSin5pHoSr7GU-55" value="Commercial&lt;br&gt;or&amp;nbsp;&lt;br&gt;Residential ?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="370" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="F_dYNPBiSin5pHoSr7GU-57" value="Commercial" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="614" y="500" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="F_dYNPBiSin5pHoSr7GU-58" value="Residential" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;rotation=0;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="400" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="F_dYNPBiSin5pHoSr7GU-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F_dYNPBiSin5pHoSr7GU-59" target="F_dYNPBiSin5pHoSr7GU-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F_dYNPBiSin5pHoSr7GU-59" value="See in detail the property using &#39;&lt;b&gt;Show Property&lt;/b&gt;&#39; Page" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="391" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
